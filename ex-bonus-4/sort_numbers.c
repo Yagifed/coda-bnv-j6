@@ -14,8 +14,6 @@ void print_tab(int *numbers)
     printf("\n");
 }
 
-
-
 void sort_numbers_asc(int *numbers, int len)
 {
     int i = 0, j = 0, temp = 0;
